@@ -1,6 +1,6 @@
 **Mon propre Shell, Minishell**
 
-Comme son nom l'indique, le but de se projet est de creer un shell.
+Comme son nom l'indique, le but de ce projet est de créer un shell.
 
 1) Faites "Make" dans un terminal pour compiler le projet
 2) Lancez "./minishell"
